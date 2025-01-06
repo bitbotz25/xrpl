@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
+name = "LITE COIN X"
+
+[[TOKENS]]
+issuer = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
+currency = "LTCX"
+name = "LITE COIN X"
+desc = ""
+icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.google.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.tiktok.com"
+type = "website"
+title = "Telegram"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.tiktok.com"
+type = "socialmedia"
