@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
-name = "LITE COIN X"
+address = "rUBApZm1wv31WZ8PZCiTGH2tHWRDwRA3oU"
+name = "XET ET ON XRP"
 
 [[TOKENS]]
-issuer = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
-currency = "LTCX"
-name = "LITE COIN X"
+issuer = "rUBApZm1wv31WZ8PZCiTGH2tHWRDwRA3oU"
+currency = "XET"
+name = "XET ET ON XRP"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
